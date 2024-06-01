@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath2228&label=Profile%20views&color=0e75b6&style=flat" alt="bharath2228" /> </p>
 
 - 🌱 I’m currently learning **JavaScript & ReactJS**
-- 👨‍💻 All of my projects are available at [https://github.com/Bharath2228](https://github.com/Bharath2228)
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/Bharath2228)
 - 📫 You can reach me at **pbharath328@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
