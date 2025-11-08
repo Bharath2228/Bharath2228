@@ -5,13 +5,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bharath Prakash</h1>
-<h3 align="center">A Software Developer from India. I'm Currently working in Boeing India Private Limited</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath2228&label=Profile%20views&color=0e75b6&style=flat" alt="bharath2228" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & ReactJS**
+- 🌱 I’m currently working on - [AI-Driven Fraud Detection System]([url](https://github.com/Bharath2228/fraud-detection-system))
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/Bharath2228)
-- 📫 You can reach me at **pbharath328@gmail.com**
+- 📫 You can reach me at **prakashbharath28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,py,html,css,c,cpp,qt,arduino,git,github,gitlab,mysql,matlab,opencv,pycharm,vscode" />
+      <img src="https://skillicons.dev/icons?i=python,js,react,redux,tailwind,py,html,css,c,cpp,qt,arduino,git,github,gitlab,mysql,matlab,opencv,pycharm,vscode" />
     </a>
 </p>
 
