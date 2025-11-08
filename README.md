@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath2228&label=Profile%20views&color=0e75b6&style=flat" alt="bharath2228" /> </p>
 
-- 🌱 I’m currently working on - [AI-Driven Fraud Detection System]([url](https://github.com/Bharath2228/fraud-detection-system))
+- 🌱 I’m currently working on - [AI-Driven Fraud Detection System](https://github.com/Bharath2228/fraud-detection-system)
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/Bharath2228)
 - 📫 You can reach me at **prakashbharath28@gmail.com**
 
