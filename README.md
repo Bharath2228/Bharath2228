@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[AI-Driven Fraud Detection System](https://github.com/Bharath2228/fraud-detection-system)**
+- 🔭 I'm currently working on **[3 Degree of Freedom Robot](https://github.com/Bharath2228/3-dof-bot)**
 - 🌱 I'm learning and exploring **Machine Learning, AI, and Backend Development**
 - 💡 Passionate about building scalable backend systems and intelligent applications
 - 👨‍💻 All of my projects are available at **[GitHub Projects](https://github.com/Bharath2228?tab=repositories)**
