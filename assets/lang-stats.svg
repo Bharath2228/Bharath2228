@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="318" viewBox="0 0 495 318" role="img" aria-label="Most used languages">
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .lang  { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .pct   { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .meta  { font: 400 10px 'Segoe UI', Ubuntu, sans-serif; fill: #6e7681; }
+    @keyframes fade { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="317" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="34" class="title">Most Used Languages</text>
+  <clipPath id="bar"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="231.5" height="10" fill="#3776AB"/><rect x="255.5" y="52" width="89.8" height="10" fill="#F1E05A"/><rect x="345.3" y="52" width="53.7" height="10" fill="#8A63D2"/><rect x="399.0" y="52" width="37.5" height="10" fill="#E34C26"/><rect x="436.5" y="52" width="32.1" height="10" fill="#F34B7D"/><rect x="468.6" y="52" width="1.8" height="10" fill="#8B949E"/><rect x="470.4" y="52" width="1.0" height="10" fill="#E16737"/></g>
+  <g style="animation: fade .5s ease-out 0.00s both">
+    <circle cx="29" cy="92" r="5" fill="#3776AB"/>
+    <text x="42" y="96" class="lang">Python</text>
+    <text x="471" y="96" class="pct" text-anchor="end">51.8%</text>
+    <rect x="174" y="89" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="89" width="122.7" height="6" rx="3" fill="#3776AB"/>
+  </g>
+  <g style="animation: fade .5s ease-out 0.08s both">
+    <circle cx="29" cy="122" r="5" fill="#F1E05A"/>
+    <text x="42" y="126" class="lang">JavaScript</text>
+    <text x="471" y="126" class="pct" text-anchor="end">20.1%</text>
+    <rect x="174" y="119" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="119" width="47.6" height="6" rx="3" fill="#F1E05A"/>
+  </g>
+  <g style="animation: fade .5s ease-out 0.16s both">
+    <circle cx="29" cy="152" r="5" fill="#8A63D2"/>
+    <text x="42" y="156" class="lang">CSS</text>
+    <text x="471" y="156" class="pct" text-anchor="end">12.0%</text>
+    <rect x="174" y="149" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="149" width="28.5" height="6" rx="3" fill="#8A63D2"/>
+  </g>
+  <g style="animation: fade .5s ease-out 0.24s both">
+    <circle cx="29" cy="182" r="5" fill="#E34C26"/>
+    <text x="42" y="186" class="lang">HTML</text>
+    <text x="471" y="186" class="pct" text-anchor="end">8.4%</text>
+    <rect x="174" y="179" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="179" width="19.9" height="6" rx="3" fill="#E34C26"/>
+  </g>
+  <g style="animation: fade .5s ease-out 0.32s both">
+    <circle cx="29" cy="212" r="5" fill="#F34B7D"/>
+    <text x="42" y="216" class="lang">C++</text>
+    <text x="471" y="216" class="pct" text-anchor="end">7.2%</text>
+    <rect x="174" y="209" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="209" width="17.0" height="6" rx="3" fill="#F34B7D"/>
+  </g>
+  <g style="animation: fade .5s ease-out 0.40s both">
+    <circle cx="29" cy="242" r="5" fill="#8B949E"/>
+    <text x="42" y="246" class="lang">CMake</text>
+    <text x="471" y="246" class="pct" text-anchor="end">0.4%</text>
+    <rect x="174" y="239" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="239" width="0.9" height="6" rx="3" fill="#8B949E"/>
+  </g>
+  <g style="animation: fade .5s ease-out 0.48s both">
+    <circle cx="29" cy="272" r="5" fill="#E16737"/>
+    <text x="42" y="276" class="lang">MATLAB</text>
+    <text x="471" y="276" class="pct" text-anchor="end">0.1%</text>
+    <rect x="174" y="269" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="269" width="0.3" height="6" rx="3" fill="#E16737"/>
+  </g>
+  <text x="471" y="308" class="meta" text-anchor="end">Auto-updated 2026-10-03 · by repo bytes, forks excluded</text>
+</svg>
