@@ -10,27 +10,31 @@
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/Bharath2228?label=Stars&style=flat-square&color=f0883e&labelColor=0d1117)](https://github.com/Bharath2228?tab=repositories)
 
+[LinkedIn](https://linkedin.com/in/bharath-p-450596263) · [Email](mailto:prakashbharath28@gmail.com) · [Repositories](https://github.com/Bharath2228?tab=repositories)
+
 </div>
 
 ---
 
 ## About Me
 
-Backend-focused developer who likes building systems that **actually work at scale** — from schema design to API architecture. Outside of Python and SQL, I'm exploring how computer vision and ML solve real-world problems, currently by building a robot arm from scratch.
+Backend-focused developer who likes building systems that **actually work at scale**, from schema design to API architecture. Outside of Python and SQL, I'm exploring how computer vision and ML solve real-world problems, currently by building a robot arm from scratch.
 
-- **Building** — [3-DOF Robot Arm](https://github.com/Bharath2228/3-dof-bot): kinematics, computer vision, control systems
-- **Learning** — Machine Learning · Deep Learning · System Design
-- **Interested in** — Backend architecture, automation, intelligent systems
-- **Reach me** — [prakashbharath28@gmail.com](mailto:prakashbharath28@gmail.com)
+| | |
+|---|---|
+| 🔨 **Building** | [3-DOF Robot Arm](https://github.com/Bharath2228/3-dof-bot): kinematics, computer vision, control systems |
+| 📚 **Learning** | Machine Learning · Deep Learning · System Design |
+| 🎯 **Interested in** | Backend architecture, automation, intelligent systems |
+| 💼 **Open to** | <!-- e.g. Backend / ML internships, freelance, collaboration --> |
+| 📫 **Reach me** | [prakashbharath28@gmail.com](mailto:prakashbharath28@gmail.com) |
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### [3-dof-bot](https://github.com/Bharath2228/3-dof-bot)
 
-Forward and inverse kinematics, OpenCV object tracking, and servo control for a
-3-degree-of-freedom robotic arm.
+Forward and inverse kinematics, OpenCV object tracking, and servo control for a 3-degree-of-freedom robotic arm.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -38,7 +42,27 @@ Forward and inverse kinematics, OpenCV object tracking, and servo control for a
 [![Stars](https://img.shields.io/github/stars/Bharath2228/3-dof-bot?style=flat-square&color=f0883e&labelColor=0d1117)](https://github.com/Bharath2228/3-dof-bot/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/Bharath2228/3-dof-bot?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/Bharath2228/3-dof-bot/commits)
 
+### [Your backend project name](https://github.com/Bharath2228/REPO-NAME)
+
+<!-- Add one backend project: what it does, scale/numbers (e.g. "handles 10k req/min"), and the stack. -->
+One-line description of the problem it solves and the key result.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 [**Browse all repositories →**](https://github.com/Bharath2228?tab=repositories)
+
+---
+
+## Tech Stack Usage
+
+<div align="center">
+
+<img src="assets/lang-stats.svg" alt="Most used languages across my repositories" width="495" />
+
+</div>
+
+<sub>Computed from the bytes of code in my public, non-fork repos. A GitHub Action refreshes this card every day.</sub>
 
 ---
 
@@ -58,7 +82,7 @@ Forward and inverse kinematics, OpenCV object tracking, and servo control for a
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **Databases**
@@ -98,46 +122,3 @@ Forward and inverse kinematics, OpenCV object tracking, and servo control for a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharath2228)
 
 </div>
-
-<!--
-=============================================================================
-REMOVED WIDGETS — and why. Paste any block back in if you fix the root cause.
-=============================================================================
-
-Everything above uses only img.shields.io and readme-typing-svg.demolab.com,
-which both rendered correctly in testing. The widgets below were removed
-because they are SLOW endpoints (big generated SVGs, or a GitHub API call
-before rendering) and were timing out / failing to load.
-
-1. TROPHIES — genuinely dead. Host returns HTTP 402 (quota exhausted),
-   site-wide, for everyone. Only fix is self-hosting.
-   https://github.com/ryo-ma/github-profile-trophy
-
-   [![Trophies](https://github-profile-trophy.vercel.app/?username=Bharath2228&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-2. STATS + TOP LANGUAGES — shared instance shares a pool of GitHub API
-   tokens across thousands of profiles. When the pool is exhausted the
-   cards fail for ~1 hour until tokens regenerate. Self-hosting your own
-   instance with your own token fixes this permanently:
-   https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bharath2228&show_icons=true&theme=github_dark_dimmed&border_color=30363d&rank_icon=github" />
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath2228&layout=compact&theme=github_dark_dimmed&border_color=30363d" />
-
-3. STREAK CARD — same GitHub API dependency, same failure mode.
-
-   <img height="165em" src="https://streak-stats.demolab.com?user=Bharath2228&theme=dark&border=30363d&background=0D1117&stroke=30363d&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=8B949E" />
-
-4. REPO PIN CARD — same instance as #2, same failure mode. Replaced above
-   with a plain heading plus shields badges that pull the same live data.
-
-   [![3-DOF Bot](https://github-readme-stats.vercel.app/api/pin/?username=Bharath2228&repo=3-dof-bot&theme=github_dark_dimmed&border_radius=10)](https://github.com/Bharath2228/3-dof-bot)
-
-5. CAPSULE-RENDER BANNERS — large animated SVG, slow to generate, was
-   failing to load. Replaced with a plain markdown heading.
-
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharath%20Prakash&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" />
-
-6. ACTIVITY GRAPH / QUOTE WIDGET / PROFILE-VIEW COUNTER — removed as noise
-   rather than as failures.
--->
