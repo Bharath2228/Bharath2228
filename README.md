@@ -2,9 +2,9 @@
 
 # Bharath Prakash
 
-**Backend Developer · AI & Computer Vision**
+**Robotics Software Engineer (in the making) · Kinematics · Perception · Control**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems;Exploring+AI+%26+Machine+Learning;Turning+complex+problems+into+elegant+code)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+a+3-DOF+robot+arm+from+scratch;Kinematics%2C+computer+vision+and+control;Backend+skills+for+robots+that+scale)
 
 [![Followers](https://img.shields.io/github/followers/Bharath2228?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/Bharath2228?tab=followers)
 &nbsp;
@@ -18,14 +18,13 @@
 
 ## About Me
 
-Backend-focused developer who likes building systems that **actually work at scale**, from schema design to API architecture. Outside of Python and SQL, I'm exploring how computer vision and ML solve real-world problems, currently by building a robot arm from scratch.
+I'm working towards a career as a **robotics software engineer**. I'm building a 3-DOF robot arm from scratch to learn the full loop: kinematics, vision, and motor control. My earlier backend work (schema design, APIs, databases) is a useful second skill, because real robots also need reliable data pipelines, telemetry, and services around them.
 
 | | |
 |---|---|
-| 🔨 **Building** | [3-DOF Robot Arm](https://github.com/Bharath2228/3-dof-bot): kinematics, computer vision, control systems |
-| 📚 **Learning** | Machine Learning · Deep Learning · System Design |
-| 🎯 **Interested in** | Backend architecture, automation, intelligent systems |
-| 💼 **Open to** | <!-- e.g. Backend / ML internships, freelance, collaboration --> |
+| 🔨 **Building** | [3-DOF Robot Arm](https://github.com/Bharath2228/3-dof-bot): forward/inverse kinematics, OpenCV object tracking, servo control |
+| 📚 **Learning next** | ROS 2 · Gazebo simulation · modern C++ · control theory · Docker on Linux |
+| 🎯 **Looking for** | <!-- e.g. Robotics software internship / junior role, open-source robotics collaboration --> |
 | 📫 **Reach me** | [prakashbharath28@gmail.com](mailto:prakashbharath28@gmail.com) |
 
 ---
@@ -36,19 +35,21 @@ Backend-focused developer who likes building systems that **actually work at sca
 
 Forward and inverse kinematics, OpenCV object tracking, and servo control for a 3-degree-of-freedom robotic arm.
 
+<!-- Add a short demo GIF of the arm tracking an object, then uncomment:
+<img src="assets/arm-demo.gif" alt="3-DOF arm tracking an object" width="480" />
+-->
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/Bharath2228/3-dof-bot?style=flat-square&color=f0883e&labelColor=0d1117)](https://github.com/Bharath2228/3-dof-bot/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/Bharath2228/3-dof-bot?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/Bharath2228/3-dof-bot/commits)
 
-### [Your backend project name](https://github.com/Bharath2228/REPO-NAME)
+### Up next
 
-<!-- Add one backend project: what it does, scale/numbers (e.g. "handles 10k req/min"), and the stack. -->
-One-line description of the problem it solves and the key result.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<!-- Replace each line with a link once the repo exists. Delete anything you don't plan to build. -->
+- **3-dof-bot on ROS 2:** wrap the kinematics and tracking in ROS 2 nodes, with a URDF model and a Gazebo simulation
+- **Robot telemetry service:** a small backend (API + database) that logs joint states and commands from the arm
 
 [**Browse all repositories →**](https://github.com/Bharath2228?tab=repositories)
 
@@ -68,22 +69,46 @@ One-line description of the problem it solves and the key result.
 
 ## Tech Stack
 
+**Robotics & Perception**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Currently learning**
+
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<details>
+<summary><b>Backend, data & frontend</b></summary>
+
+<br>
 
 **Backend & Data**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Databases**
 
@@ -101,15 +126,7 @@ One-line description of the problem it solves and the key result.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=flat-square)
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+</details>
 
 ---
 
