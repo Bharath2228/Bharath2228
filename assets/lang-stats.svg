@@ -9,41 +9,41 @@
   <rect x="0.5" y="0.5" width="494" height="347" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="34" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="145.8" height="10" fill="#E34C26"/><rect x="169.8" y="52" width="139.1" height="10" fill="#3776AB"/><rect x="308.9" y="52" width="58.7" height="10" fill="#A97BFF"/><rect x="367.5" y="52" width="50.9" height="10" fill="#F1E05A"/><rect x="418.5" y="52" width="31.8" height="10" fill="#8A63D2"/><rect x="450.3" y="52" width="19.3" height="10" fill="#F34B7D"/><rect x="469.6" y="52" width="1.1" height="10" fill="#8B949E"/><rect x="470.6" y="52" width="1.0" height="10" fill="#E16737"/></g>
+  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="145.2" height="10" fill="#E34C26"/><rect x="169.2" y="52" width="140.4" height="10" fill="#3776AB"/><rect x="309.5" y="52" width="58.4" height="10" fill="#A97BFF"/><rect x="368.0" y="52" width="50.7" height="10" fill="#F1E05A"/><rect x="418.7" y="52" width="31.7" height="10" fill="#8A63D2"/><rect x="450.4" y="52" width="19.2" height="10" fill="#F34B7D"/><rect x="469.6" y="52" width="1.1" height="10" fill="#8B949E"/><rect x="470.6" y="52" width="1.0" height="10" fill="#E16737"/></g>
   <g style="animation: fade .5s ease-out 0.00s both">
     <circle cx="29" cy="92" r="5" fill="#E34C26"/>
     <text x="42" y="96" class="lang">HTML</text>
-    <text x="471" y="96" class="pct" text-anchor="end">32.6%</text>
+    <text x="471" y="96" class="pct" text-anchor="end">32.5%</text>
     <rect x="174" y="89" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="89" width="77.3" height="6" rx="3" fill="#E34C26"/>
+    <rect x="174" y="89" width="77.0" height="6" rx="3" fill="#E34C26"/>
   </g>
   <g style="animation: fade .5s ease-out 0.08s both">
     <circle cx="29" cy="122" r="5" fill="#3776AB"/>
     <text x="42" y="126" class="lang">Python</text>
-    <text x="471" y="126" class="pct" text-anchor="end">31.1%</text>
+    <text x="471" y="126" class="pct" text-anchor="end">31.4%</text>
     <rect x="174" y="119" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="119" width="73.7" height="6" rx="3" fill="#3776AB"/>
+    <rect x="174" y="119" width="74.4" height="6" rx="3" fill="#3776AB"/>
   </g>
   <g style="animation: fade .5s ease-out 0.16s both">
     <circle cx="29" cy="152" r="5" fill="#A97BFF"/>
     <text x="42" y="156" class="lang">Kotlin</text>
     <text x="471" y="156" class="pct" text-anchor="end">13.1%</text>
     <rect x="174" y="149" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="149" width="31.1" height="6" rx="3" fill="#A97BFF"/>
+    <rect x="174" y="149" width="31.0" height="6" rx="3" fill="#A97BFF"/>
   </g>
   <g style="animation: fade .5s ease-out 0.24s both">
     <circle cx="29" cy="182" r="5" fill="#F1E05A"/>
     <text x="42" y="186" class="lang">JavaScript</text>
-    <text x="471" y="186" class="pct" text-anchor="end">11.4%</text>
+    <text x="471" y="186" class="pct" text-anchor="end">11.3%</text>
     <rect x="174" y="179" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="179" width="27.0" height="6" rx="3" fill="#F1E05A"/>
+    <rect x="174" y="179" width="26.9" height="6" rx="3" fill="#F1E05A"/>
   </g>
   <g style="animation: fade .5s ease-out 0.32s both">
     <circle cx="29" cy="212" r="5" fill="#8A63D2"/>
     <text x="42" y="216" class="lang">CSS</text>
     <text x="471" y="216" class="pct" text-anchor="end">7.1%</text>
     <rect x="174" y="209" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="209" width="16.9" height="6" rx="3" fill="#8A63D2"/>
+    <rect x="174" y="209" width="16.8" height="6" rx="3" fill="#8A63D2"/>
   </g>
   <g style="animation: fade .5s ease-out 0.40s both">
     <circle cx="29" cy="242" r="5" fill="#F34B7D"/>
@@ -66,5 +66,5 @@
     <rect x="174" y="299" width="237" height="6" rx="3" fill="#21262d"/>
     <rect x="174" y="299" width="0.2" height="6" rx="3" fill="#E16737"/>
   </g>
-  <text x="471" y="338" class="meta" text-anchor="end">Auto-updated 2026-10-07 · by repo bytes, forks excluded</text>
+  <text x="471" y="338" class="meta" text-anchor="end">Auto-updated 2026-10-08 · by repo bytes, forks excluded</text>
 </svg>
