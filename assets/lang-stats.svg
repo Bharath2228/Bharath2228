@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="348" viewBox="0 0 495 348" role="img" aria-label="Most used languages">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="378" viewBox="0 0 495 378" role="img" aria-label="Most used languages">
   <style>
     .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
     .lang  { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
@@ -6,65 +6,72 @@
     .meta  { font: 400 10px 'Segoe UI', Ubuntu, sans-serif; fill: #6e7681; }
     @keyframes fade { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
   </style>
-  <rect x="0.5" y="0.5" width="494" height="347" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="494" height="377" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="34" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="143.6" height="10" fill="#E34C26"/><rect x="167.6" y="52" width="138.8" height="10" fill="#3776AB"/><rect x="306.4" y="52" width="60.3" height="10" fill="#A97BFF"/><rect x="366.7" y="52" width="50.8" height="10" fill="#F1E05A"/><rect x="417.5" y="52" width="33.1" height="10" fill="#8A63D2"/><rect x="450.6" y="52" width="19.0" height="10" fill="#F34B7D"/><rect x="469.6" y="52" width="1.0" height="10" fill="#8B949E"/><rect x="470.6" y="52" width="1.0" height="10" fill="#E16737"/></g>
+  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="155.2" height="10" fill="#3776AB"/><rect x="179.2" y="52" width="135.4" height="10" fill="#E34C26"/><rect x="314.6" y="52" width="56.9" height="10" fill="#A97BFF"/><rect x="371.5" y="52" width="47.9" height="10" fill="#F1E05A"/><rect x="419.4" y="52" width="31.2" height="10" fill="#8A63D2"/><rect x="450.6" y="52" width="17.9" height="10" fill="#F34B7D"/><rect x="468.5" y="52" width="1.2" height="10" fill="#8B949E"/><rect x="469.6" y="52" width="1.0" height="10" fill="#8B949E"/><rect x="470.6" y="52" width="1.0" height="10" fill="#8B949E"/></g>
   <g style="animation: fade .5s ease-out 0.00s both">
-    <circle cx="29" cy="92" r="5" fill="#E34C26"/>
-    <text x="42" y="96" class="lang">HTML</text>
-    <text x="471" y="96" class="pct" text-anchor="end">32.1%</text>
+    <circle cx="29" cy="92" r="5" fill="#3776AB"/>
+    <text x="42" y="96" class="lang">Python</text>
+    <text x="471" y="96" class="pct" text-anchor="end">34.7%</text>
     <rect x="174" y="89" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="89" width="76.1" height="6" rx="3" fill="#E34C26"/>
+    <rect x="174" y="89" width="82.3" height="6" rx="3" fill="#3776AB"/>
   </g>
   <g style="animation: fade .5s ease-out 0.08s both">
-    <circle cx="29" cy="122" r="5" fill="#3776AB"/>
-    <text x="42" y="126" class="lang">Python</text>
-    <text x="471" y="126" class="pct" text-anchor="end">31.1%</text>
+    <circle cx="29" cy="122" r="5" fill="#E34C26"/>
+    <text x="42" y="126" class="lang">HTML</text>
+    <text x="471" y="126" class="pct" text-anchor="end">30.3%</text>
     <rect x="174" y="119" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="119" width="73.6" height="6" rx="3" fill="#3776AB"/>
+    <rect x="174" y="119" width="71.8" height="6" rx="3" fill="#E34C26"/>
   </g>
   <g style="animation: fade .5s ease-out 0.16s both">
     <circle cx="29" cy="152" r="5" fill="#A97BFF"/>
     <text x="42" y="156" class="lang">Kotlin</text>
-    <text x="471" y="156" class="pct" text-anchor="end">13.5%</text>
+    <text x="471" y="156" class="pct" text-anchor="end">12.7%</text>
     <rect x="174" y="149" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="149" width="32.0" height="6" rx="3" fill="#A97BFF"/>
+    <rect x="174" y="149" width="30.2" height="6" rx="3" fill="#A97BFF"/>
   </g>
   <g style="animation: fade .5s ease-out 0.24s both">
     <circle cx="29" cy="182" r="5" fill="#F1E05A"/>
     <text x="42" y="186" class="lang">JavaScript</text>
-    <text x="471" y="186" class="pct" text-anchor="end">11.4%</text>
+    <text x="471" y="186" class="pct" text-anchor="end">10.7%</text>
     <rect x="174" y="179" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="179" width="26.9" height="6" rx="3" fill="#F1E05A"/>
+    <rect x="174" y="179" width="25.4" height="6" rx="3" fill="#F1E05A"/>
   </g>
   <g style="animation: fade .5s ease-out 0.32s both">
     <circle cx="29" cy="212" r="5" fill="#8A63D2"/>
     <text x="42" y="216" class="lang">CSS</text>
-    <text x="471" y="216" class="pct" text-anchor="end">7.4%</text>
+    <text x="471" y="216" class="pct" text-anchor="end">7.0%</text>
     <rect x="174" y="209" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="209" width="17.5" height="6" rx="3" fill="#8A63D2"/>
+    <rect x="174" y="209" width="16.5" height="6" rx="3" fill="#8A63D2"/>
   </g>
   <g style="animation: fade .5s ease-out 0.40s both">
     <circle cx="29" cy="242" r="5" fill="#F34B7D"/>
     <text x="42" y="246" class="lang">C++</text>
-    <text x="471" y="246" class="pct" text-anchor="end">4.2%</text>
+    <text x="471" y="246" class="pct" text-anchor="end">4.0%</text>
     <rect x="174" y="239" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="239" width="10.1" height="6" rx="3" fill="#F34B7D"/>
+    <rect x="174" y="239" width="9.5" height="6" rx="3" fill="#F34B7D"/>
   </g>
   <g style="animation: fade .5s ease-out 0.48s both">
     <circle cx="29" cy="272" r="5" fill="#8B949E"/>
-    <text x="42" y="276" class="lang">CMake</text>
-    <text x="471" y="276" class="pct" text-anchor="end">0.2%</text>
+    <text x="42" y="276" class="lang">PowerShell</text>
+    <text x="471" y="276" class="pct" text-anchor="end">0.3%</text>
     <rect x="174" y="269" width="237" height="6" rx="3" fill="#21262d"/>
     <rect x="174" y="269" width="0.6" height="6" rx="3" fill="#8B949E"/>
   </g>
   <g style="animation: fade .5s ease-out 0.56s both">
-    <circle cx="29" cy="302" r="5" fill="#E16737"/>
-    <text x="42" y="306" class="lang">MATLAB</text>
-    <text x="471" y="306" class="pct" text-anchor="end">0.1%</text>
+    <circle cx="29" cy="302" r="5" fill="#8B949E"/>
+    <text x="42" y="306" class="lang">CMake</text>
+    <text x="471" y="306" class="pct" text-anchor="end">0.2%</text>
     <rect x="174" y="299" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="299" width="0.2" height="6" rx="3" fill="#E16737"/>
+    <rect x="174" y="299" width="0.5" height="6" rx="3" fill="#8B949E"/>
   </g>
-  <text x="471" y="338" class="meta" text-anchor="end">Auto-updated 2026-10-14 · by repo bytes, forks excluded</text>
+  <g style="animation: fade .5s ease-out 0.64s both">
+    <circle cx="29" cy="332" r="5" fill="#8B949E"/>
+    <text x="42" y="336" class="lang">Other</text>
+    <text x="471" y="336" class="pct" text-anchor="end">0.1%</text>
+    <rect x="174" y="329" width="237" height="6" rx="3" fill="#21262d"/>
+    <rect x="174" y="329" width="0.2" height="6" rx="3" fill="#8B949E"/>
+  </g>
+  <text x="471" y="368" class="meta" text-anchor="end">Auto-updated 2026-10-15 · by repo bytes, forks excluded</text>
 </svg>
