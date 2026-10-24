@@ -9,48 +9,48 @@
   <rect x="0.5" y="0.5" width="494" height="377" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="34" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="194.8" height="10" fill="#3776AB"/><rect x="218.8" y="52" width="99.9" height="10" fill="#A97BFF"/><rect x="318.7" y="52" width="60.7" height="10" fill="#F1E05A"/><rect x="379.4" y="52" width="39.6" height="10" fill="#8A63D2"/><rect x="419.0" y="52" width="26.4" height="10" fill="#E34C26"/><rect x="445.4" y="52" width="22.5" height="10" fill="#F34B7D"/><rect x="467.8" y="52" width="1.4" height="10" fill="#8B949E"/><rect x="469.3" y="52" width="1.2" height="10" fill="#8B949E"/><rect x="470.5" y="52" width="1.0" height="10" fill="#8B949E"/></g>
+  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="193.1" height="10" fill="#3776AB"/><rect x="217.1" y="52" width="99.1" height="10" fill="#A97BFF"/><rect x="316.2" y="52" width="61.8" height="10" fill="#F1E05A"/><rect x="378.0" y="52" width="41.4" height="10" fill="#8A63D2"/><rect x="419.4" y="52" width="26.1" height="10" fill="#E34C26"/><rect x="445.6" y="52" width="22.3" height="10" fill="#F34B7D"/><rect x="467.9" y="52" width="1.4" height="10" fill="#8B949E"/><rect x="469.3" y="52" width="1.2" height="10" fill="#8B949E"/><rect x="470.5" y="52" width="1.0" height="10" fill="#8B949E"/></g>
   <g style="animation: fade .5s ease-out 0.00s both">
     <circle cx="29" cy="92" r="5" fill="#3776AB"/>
     <text x="42" y="96" class="lang">Python</text>
-    <text x="471" y="96" class="pct" text-anchor="end">43.6%</text>
+    <text x="471" y="96" class="pct" text-anchor="end">43.2%</text>
     <rect x="174" y="89" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="89" width="103.3" height="6" rx="3" fill="#3776AB"/>
+    <rect x="174" y="89" width="102.4" height="6" rx="3" fill="#3776AB"/>
   </g>
   <g style="animation: fade .5s ease-out 0.08s both">
     <circle cx="29" cy="122" r="5" fill="#A97BFF"/>
     <text x="42" y="126" class="lang">Kotlin</text>
-    <text x="471" y="126" class="pct" text-anchor="end">22.4%</text>
+    <text x="471" y="126" class="pct" text-anchor="end">22.2%</text>
     <rect x="174" y="119" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="119" width="53.0" height="6" rx="3" fill="#A97BFF"/>
+    <rect x="174" y="119" width="52.5" height="6" rx="3" fill="#A97BFF"/>
   </g>
   <g style="animation: fade .5s ease-out 0.16s both">
     <circle cx="29" cy="152" r="5" fill="#F1E05A"/>
     <text x="42" y="156" class="lang">JavaScript</text>
-    <text x="471" y="156" class="pct" text-anchor="end">13.6%</text>
+    <text x="471" y="156" class="pct" text-anchor="end">13.8%</text>
     <rect x="174" y="149" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="149" width="32.2" height="6" rx="3" fill="#F1E05A"/>
+    <rect x="174" y="149" width="32.8" height="6" rx="3" fill="#F1E05A"/>
   </g>
   <g style="animation: fade .5s ease-out 0.24s both">
     <circle cx="29" cy="182" r="5" fill="#8A63D2"/>
     <text x="42" y="186" class="lang">CSS</text>
-    <text x="471" y="186" class="pct" text-anchor="end">8.9%</text>
+    <text x="471" y="186" class="pct" text-anchor="end">9.3%</text>
     <rect x="174" y="179" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="179" width="21.0" height="6" rx="3" fill="#8A63D2"/>
+    <rect x="174" y="179" width="22.0" height="6" rx="3" fill="#8A63D2"/>
   </g>
   <g style="animation: fade .5s ease-out 0.32s both">
     <circle cx="29" cy="212" r="5" fill="#E34C26"/>
     <text x="42" y="216" class="lang">HTML</text>
-    <text x="471" y="216" class="pct" text-anchor="end">5.9%</text>
+    <text x="471" y="216" class="pct" text-anchor="end">5.8%</text>
     <rect x="174" y="209" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="209" width="14.0" height="6" rx="3" fill="#E34C26"/>
+    <rect x="174" y="209" width="13.9" height="6" rx="3" fill="#E34C26"/>
   </g>
   <g style="animation: fade .5s ease-out 0.40s both">
     <circle cx="29" cy="242" r="5" fill="#F34B7D"/>
     <text x="42" y="246" class="lang">C++</text>
     <text x="471" y="246" class="pct" text-anchor="end">5.0%</text>
     <rect x="174" y="239" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="239" width="11.9" height="6" rx="3" fill="#F34B7D"/>
+    <rect x="174" y="239" width="11.8" height="6" rx="3" fill="#F34B7D"/>
   </g>
   <g style="animation: fade .5s ease-out 0.48s both">
     <circle cx="29" cy="272" r="5" fill="#8B949E"/>
@@ -64,7 +64,7 @@
     <text x="42" y="306" class="lang">CMake</text>
     <text x="471" y="306" class="pct" text-anchor="end">0.3%</text>
     <rect x="174" y="299" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="299" width="0.7" height="6" rx="3" fill="#8B949E"/>
+    <rect x="174" y="299" width="0.6" height="6" rx="3" fill="#8B949E"/>
   </g>
   <g style="animation: fade .5s ease-out 0.64s both">
     <circle cx="29" cy="332" r="5" fill="#8B949E"/>
@@ -73,5 +73,5 @@
     <rect x="174" y="329" width="237" height="6" rx="3" fill="#21262d"/>
     <rect x="174" y="329" width="0.3" height="6" rx="3" fill="#8B949E"/>
   </g>
-  <text x="471" y="368" class="meta" text-anchor="end">Auto-updated 2026-10-23 · by repo bytes, forks excluded</text>
+  <text x="471" y="368" class="meta" text-anchor="end">Auto-updated 2026-10-24 · by repo bytes, forks excluded</text>
 </svg>
