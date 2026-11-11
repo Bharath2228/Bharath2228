@@ -9,34 +9,34 @@
   <rect x="0.5" y="0.5" width="494" height="377" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="34" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="194.4" height="10" fill="#3776AB"/><rect x="218.4" y="52" width="98.1" height="10" fill="#A97BFF"/><rect x="316.6" y="52" width="61.3" height="10" fill="#F1E05A"/><rect x="377.8" y="52" width="41.0" height="10" fill="#8A63D2"/><rect x="418.8" y="52" width="25.9" height="10" fill="#E34C26"/><rect x="444.7" y="52" width="22.8" height="10" fill="#F34B7D"/><rect x="467.5" y="52" width="1.5" height="10" fill="#8B949E"/><rect x="469.0" y="52" width="1.4" height="10" fill="#8B949E"/><rect x="470.4" y="52" width="1.0" height="10" fill="#8B949E"/></g>
+  <g clip-path="url(#bar)"><rect x="24.0" y="52" width="194.7" height="10" fill="#3776AB"/><rect x="218.7" y="52" width="98.3" height="10" fill="#A97BFF"/><rect x="316.9" y="52" width="61.9" height="10" fill="#F1E05A"/><rect x="378.8" y="52" width="40.0" height="10" fill="#8A63D2"/><rect x="418.8" y="52" width="25.9" height="10" fill="#E34C26"/><rect x="444.7" y="52" width="22.8" height="10" fill="#F34B7D"/><rect x="467.5" y="52" width="1.5" height="10" fill="#8B949E"/><rect x="468.9" y="52" width="1.4" height="10" fill="#8B949E"/><rect x="470.4" y="52" width="1.0" height="10" fill="#8B949E"/></g>
   <g style="animation: fade .5s ease-out 0.00s both">
     <circle cx="29" cy="92" r="5" fill="#3776AB"/>
     <text x="42" y="96" class="lang">Python</text>
-    <text x="471" y="96" class="pct" text-anchor="end">43.5%</text>
+    <text x="471" y="96" class="pct" text-anchor="end">43.6%</text>
     <rect x="174" y="89" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="89" width="103.1" height="6" rx="3" fill="#3776AB"/>
+    <rect x="174" y="89" width="103.2" height="6" rx="3" fill="#3776AB"/>
   </g>
   <g style="animation: fade .5s ease-out 0.08s both">
     <circle cx="29" cy="122" r="5" fill="#A97BFF"/>
     <text x="42" y="126" class="lang">Kotlin</text>
     <text x="471" y="126" class="pct" text-anchor="end">22.0%</text>
     <rect x="174" y="119" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="119" width="52.0" height="6" rx="3" fill="#A97BFF"/>
+    <rect x="174" y="119" width="52.1" height="6" rx="3" fill="#A97BFF"/>
   </g>
   <g style="animation: fade .5s ease-out 0.16s both">
     <circle cx="29" cy="152" r="5" fill="#F1E05A"/>
     <text x="42" y="156" class="lang">JavaScript</text>
-    <text x="471" y="156" class="pct" text-anchor="end">13.7%</text>
+    <text x="471" y="156" class="pct" text-anchor="end">13.8%</text>
     <rect x="174" y="149" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="149" width="32.5" height="6" rx="3" fill="#F1E05A"/>
+    <rect x="174" y="149" width="32.8" height="6" rx="3" fill="#F1E05A"/>
   </g>
   <g style="animation: fade .5s ease-out 0.24s both">
     <circle cx="29" cy="182" r="5" fill="#8A63D2"/>
     <text x="42" y="186" class="lang">CSS</text>
-    <text x="471" y="186" class="pct" text-anchor="end">9.2%</text>
+    <text x="471" y="186" class="pct" text-anchor="end">8.9%</text>
     <rect x="174" y="179" width="237" height="6" rx="3" fill="#21262d"/>
-    <rect x="174" y="179" width="21.7" height="6" rx="3" fill="#8A63D2"/>
+    <rect x="174" y="179" width="21.2" height="6" rx="3" fill="#8A63D2"/>
   </g>
   <g style="animation: fade .5s ease-out 0.32s both">
     <circle cx="29" cy="212" r="5" fill="#E34C26"/>
@@ -73,5 +73,5 @@
     <rect x="174" y="329" width="237" height="6" rx="3" fill="#21262d"/>
     <rect x="174" y="329" width="0.3" height="6" rx="3" fill="#8B949E"/>
   </g>
-  <text x="471" y="368" class="meta" text-anchor="end">Auto-updated 2026-11-10 · by repo bytes, forks excluded</text>
+  <text x="471" y="368" class="meta" text-anchor="end">Auto-updated 2026-11-11 · by repo bytes, forks excluded</text>
 </svg>
